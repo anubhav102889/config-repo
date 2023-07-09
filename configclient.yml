@@ -1,5 +1,7 @@
-
 com:
   example:
     config-props:
       my-property: springconfigexample
+      
+server:
+  port: 9091
