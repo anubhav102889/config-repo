@@ -1,2 +1,8 @@
 foo:
   value: barfromappfile
+
+
+com:
+  example:
+    configProps:
+      my-property: applicationdev

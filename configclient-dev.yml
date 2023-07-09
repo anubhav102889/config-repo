@@ -2,4 +2,4 @@
 com:
   example:
     configProps:
-      my-property: springconfigexampleoverriden
+      my-propertyi: springconfigexampleoverriden
