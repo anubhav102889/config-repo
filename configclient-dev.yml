@@ -1,5 +1,5 @@
 
 com:
   example:
-    config-props:
+    configProps:
       my-property: springconfigexampleoverriden
