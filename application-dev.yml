@@ -5,4 +5,4 @@ foo:
 com:
   example:
     configProps:
-      my-property: applicationdev
+      my-property: applicationdevchange
