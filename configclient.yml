@@ -1,6 +1,6 @@
 com:
   example:
     config-props:
-      my-property: springconfigexample
+      my-property: springconfigexampletest
       
       
