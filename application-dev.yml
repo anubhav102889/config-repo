@@ -1,8 +1,9 @@
 foo:
-  value: barfromappfile
+  value: bar
 
 
 com:
   example:
     configProps:
       my-property: applicationdevchange
+
