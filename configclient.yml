@@ -1,6 +1,15 @@
 com:
   example:
     config-props:
-      my-property: springconfigexample
+      my-property: springconfigexampl
+
+spring:
+  cloud:
+    config:
+      allowOverride: true
+      overrideNone: true
+      overrideSystemProperties: true
+
+
       
       
