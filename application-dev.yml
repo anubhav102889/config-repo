@@ -12,3 +12,4 @@ spring:
     config:
       allowOverride: true
       overrideNone: true
+      overrideSystemProperties: false
