@@ -7,3 +7,8 @@ com:
     config-props:
       my-property: applicationdevchange
 
+spring:
+  cloud:
+    config:
+      allowOverride: true
+      overrideNone: true
