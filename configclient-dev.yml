@@ -2,4 +2,4 @@
 com:
   example:
     configProps:
-      my-propertyi: springconfigexampleoverriden
+      my-property: configclientremotevalue
