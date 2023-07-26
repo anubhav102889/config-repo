@@ -2,4 +2,4 @@
 com:
   example:
     configProps:
-      my-property: configclientremotevalue
+      my-property: configclientspecificremotevalue
