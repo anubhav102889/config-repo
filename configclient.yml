@@ -2,6 +2,8 @@ com:
   example:
     config-props:
       my-property: configclientdefaultremotevalue
+myconfig:
+  client: placeholdevalueusingvalueannotation
 
 
 
