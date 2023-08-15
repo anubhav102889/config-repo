@@ -1,4 +1,9 @@
-example: test
-
 myconfig:
   client: placeholdervalueusingvalueannotationfromcommonremote
+
+spring:
+  cloud:
+    config:
+      allowOverride: true
+      overrideNone: false
+      overrideSystemProperties: false
