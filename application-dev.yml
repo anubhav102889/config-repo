@@ -16,4 +16,4 @@ spring:
 
 
 myconfig:
-  client: placeholdevalueusingvalueannotationfromremotedevprofile
+  client: placeholderusingvalueannotationfromcommonremotedevprofile
