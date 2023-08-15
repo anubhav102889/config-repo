@@ -7,10 +7,5 @@ com:
     config-props:
       my-property: allapplicationdefaultremotevalue
 
-spring:
-  cloud:
-    config:
-      allowOverride: true
-      overrideNone: false
-      overrideSystemProperties: false
+
 
